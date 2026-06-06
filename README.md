@@ -22,13 +22,17 @@ http://localhost:3000
 Features of the assignment 
 
 1. a form that allows users to add new user details by filling in the required information.
+   
 2.Implemented a sorting feature using a dropdown menu to sort users by:
         Name (A–Z and Z–A)
         City (A–Z)
         Company (A–Z)
-3.Added an All Cities filter option that displays all cities entered through the form.
-4.Used an API to fetch and display user information in a card-based layout.
+3.Added an All Cities filter option that displays all cities entered through the form
+
+4.Used an API to fetch and display user information in a card-based layout
+
 5.Added a search bar to quickly find users by their details.
+
 6.Included a Refresh button to reload and update the data whenever needed or if any issue occurs.
 
 
