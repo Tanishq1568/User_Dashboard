@@ -26,7 +26,8 @@ Features of the assignment
 2.Implemented a sorting feature using a dropdown menu to sort users by:
         Name (A–Z and Z–A)
         City (A–Z)
-        Company (A–Z)
+        Company (A–Z
+        
 3.Added an All Cities filter option that displays all cities entered through the form
 
 4.Used an API to fetch and display user information in a card-based layout
