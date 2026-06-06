@@ -19,7 +19,7 @@ after running click on the link
 http://localhost:3000
 
 
-Features of the assignment 
+Features of the assignment
 
 1. a form that allows users to add new user details by filling in the required information.
    
